@@ -1,5 +1,5 @@
 /* Add CSS Styling */
-div.container
+.container .text
 {
   background-color: yellow;
   color: red;
