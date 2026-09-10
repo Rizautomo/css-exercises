@@ -1,1 +1,33 @@
-/* Add CSS Styling */
+.number1
+{
+    background-color: rgb(255, 182, 193);   
+    font-family: verdana, sans-serif;
+}
+
+#number1
+{
+    font-family: verdana, sans-serif;
+    font-size: 36px;
+    color: blue;
+
+}
+
+.number2
+{
+    background-color: rgb(255,190,193);
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+#number2
+{
+    background-color: rgb(100, 182, 0);
+    font-family: verdana, sans-serif;
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+.number3
+{
+    background-color: rgb(255, 182, 254);
+}
